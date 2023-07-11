@@ -1,0 +1,10 @@
+
+public class HeightConverter {
+
+	public void convertInchesToFeet(double height) {
+		
+		return height/12.0;
+		
+	}
+
+}

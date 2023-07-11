@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="Solution"/>
+    <fullyQualifiedTypeName name="java.io.Console"/>
+    <fullyQualifiedTypeName name="JourneyCalculator"/>
+    <fullyQualifiedTypeName name="TemperatureConverter"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="MessageDecoder"/>
+    <fullyQualifiedTypeName name="javax.print.attribute.standard.ColorSupported"/>
+    <fullyQualifiedTypeName name="HeightConverter"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="CalculatorApp"/>
+    <fullyQualifiedTypeName name="Calculator"/>
+</qualifiedTypeNameHistroy>

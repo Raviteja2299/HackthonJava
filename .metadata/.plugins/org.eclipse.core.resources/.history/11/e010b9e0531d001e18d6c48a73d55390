@@ -1,0 +1,6 @@
+public class TemperatureConverter {
+	public double convertFahrenheitToCelsius(double fahrenheit) {
+		System.out.println((fahrenheit - 32) * 5/9);
+		return (fahrenheit - 32) * (5/9);
+	}
+}

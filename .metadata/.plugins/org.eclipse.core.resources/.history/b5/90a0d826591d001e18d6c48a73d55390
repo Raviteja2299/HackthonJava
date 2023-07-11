@@ -1,0 +1,9 @@
+
+public class PlanetExplorerApp {
+	public static void main(String[] args) {
+		PlanetExplorer explorer = new PlanetExplorer();
+
+		double result = explorer.calculateSurfaceArea(3.0);
+		System.out.println(result);
+	}
+}

@@ -1,0 +1,14 @@
+public class HalveItApp {
+public static void main(String[] args) {
+	
+	double result = halveTheNumber(150.00);
+	System.out.println("%.2f",halveTheNumber(150.00));
+}
+
+static double halveTheNumber(double money) {
+	return money/2.0;
+}
+
+
+}
+

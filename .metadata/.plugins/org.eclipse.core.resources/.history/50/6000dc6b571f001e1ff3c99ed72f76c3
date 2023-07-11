@@ -1,0 +1,20 @@
+
+public class CalculatorApp {
+public static void main(String[] args) {
+	Calculator calculator = new Calculator();
+	System.out.println("Welcome to the calculator");
+	
+	whileLoop: 
+		while(true) {
+		char operator = calculator.getInput();
+		switch (operator) {
+		case '!':
+			System.out.println("Bye Bye......");
+			break whileLoop;
+
+		default:
+			break;
+		}
+	}
+}
+}

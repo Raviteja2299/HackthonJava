@@ -1,0 +1,6 @@
+public class Solution {
+public static void main(String[] args) {
+	TemperatureConverter tempConverter = new TemperatureConverter();
+	System.out.println(tempConverter.convertFahrenheitToCelsius(68.0));
+}
+}
